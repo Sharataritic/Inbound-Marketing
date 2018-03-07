@@ -11,6 +11,6 @@ Your feedback and contributions are always welcome!
 * [Pardot](http://www.pardot.com/) - It is a full-featured marketing automation tool that provides a full suite of tools to help marketers create meaningful connections.
 * [ActiveCampaign](http://www.activecampaign.com/) - It is a tool that provides marketing automation that's powerful and easy-to-use.
 * [LeadSquared](http://www.leadsquared.com/) - Complete marketing and sales automation software suite that assists in selling more courses, homes, and loans. 
-* [Oracle Eloqua](https://www.marketo.com/) - - Complete suite of marketing automation tools that help drive dynamic journeys.
+* [Oracle Eloqua](https://www.marketo.com/) - Complete suite of marketing automation tools that help drive dynamic journeys.
 * [GetResponse](https://www.getresponse.com/) - Marekting Automation software that helps you to Plan, build, and manage individual customer journeys. 
 * [Intercom](https://www.intercom.com/) - It is a Marketing Automation platform that helps you create successful email marketing campaigns.
